@@ -1,0 +1,6 @@
+{
+  "name": "Shivra Driving Institute",
+  "description": "Driving school in Annur, Coimbatore, Tamil Nadu offering practical driving classes and learner support on Coimbatore Road. Call or WhatsApp +91 99949 04424.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
