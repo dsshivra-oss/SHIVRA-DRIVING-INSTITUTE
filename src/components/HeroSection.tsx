@@ -62,8 +62,8 @@ export function HeroSection() {
           <div className="lg:col-span-6 flex">
             <div className="relative w-full aspect-[16/9] lg:aspect-auto lg:h-full min-h-[260px] rounded-xl overflow-hidden border border-white/15 bg-[#122645]">
               <ImageWithFallback
-                src="/src/assets/images/hero_driving_school_1795245742021.jpg"
-                alt="Best Driving School in Annur – Practical car driving on Coimbatore Road"
+                src="/src/assets/images/hero_shivra_car_1795248928236.jpg"
+                alt="Shivra Driving Institute training car with roof name board on Annur Coimbatore Road"
                 fallbackTitle="Shivra Driving Institute – Practical Road Training in Annur"
                 className="w-full h-full object-cover"
               />
